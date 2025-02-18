@@ -32,14 +32,24 @@ Before running the application, ensure that your environment is properly set up.
 
 ### Steps to Set Up:
 
-1. Install the required libraries using the following command:
+1. Create a virtual environment:
+ ```bash
+   python -m venv venv
+ ```
+
+2. Activate the virtual environment
+```bash
+.\venv\Scripts\activate
+
+```
+
+3. Install the required libraries using the following command:
 
     ```bash
    pip install -r requirements.txt
-
     ```
 
-3. Configure the `config.json` file with the following content:
+4. Configure the `config.json` file with the following content:
 
     ```json
     {
