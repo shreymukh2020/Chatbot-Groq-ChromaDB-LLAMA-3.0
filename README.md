@@ -1,4 +1,4 @@
-# 📚 LLAMA Multidoc Chatbot with Chroma and GROQ 🤖
+# 📚 LLAMA 3.1 Multidoc Chatbot with Chroma and GROQ 🤖
 
 ## 💬 Overview 
 
