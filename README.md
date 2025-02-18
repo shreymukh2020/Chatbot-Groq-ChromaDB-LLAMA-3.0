@@ -10,6 +10,12 @@
 
 Built with **Streamlit** 🖥️, the chatbot provides an intuitive and easy-to-use web interface, offering a seamless experience for querying and interacting with your uploaded documents.
 
+![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1/blob/main/App_screenshot1.png)
+
+![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1/blob/main/App_screenshot2.png)
+
+![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1/blob/main/App_screenshot3.png)
+
 ---
 
 ## 📝 Table of Contents
