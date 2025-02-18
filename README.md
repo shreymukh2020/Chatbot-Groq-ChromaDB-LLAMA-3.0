@@ -1,6 +1,6 @@
 # 📚 LLAMA Multidoc Chatbot with Chroma and GROQ 🤖
 
-## 📝 Overview 
+## 💬 Overview 
 
 🚀 Welcome to the **LLAMA Multidoc Chatbot** project! This advanced chatbot is powered by Meta's **LLAMA 3.1** model, leveraging **Chroma DB Vector Store** for document storage and **GROQ** for powerful natural language processing. 
 
@@ -20,8 +20,6 @@ Built with **Streamlit** 🖥️, the chatbot provides an intuitive and easy-to-
 4. [Application Flow](#application-flow) 🔄
 5. [Code Walkthrough](#code-walkthrough) 💻
 6. [Customization](#customization) ✨
-7. [Modifying the User Interface](#modifying-the-user-interface) 🎨
-8. [Conclusion](#conclusion) 🎉
 
 ---
 
