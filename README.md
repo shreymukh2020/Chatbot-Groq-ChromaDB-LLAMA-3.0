@@ -1,10 +1,12 @@
 # 📚 LLAMA Multidoc Chatbot with Chroma and GROQ 🤖
 
-## 🚀 Overview
+## Overview 📄
 
-Welcome to the **LLAMA Multidoc Chatbot** project! This advanced chatbot is powered by the cutting-edge **LLAMA 3.0** model, leveraging **Chroma DB** for document storage and **GROQ** for powerful natural language processing. 🌟
+🚀 Welcome to the **LLAMA Multidoc Chatbot** project! This advanced chatbot is powered by Meta's **LLAMA 3.1** model, leveraging **Chroma DB Vector Store** for document storage and **GROQ** for powerful natural language processing. 🌟
 
-The chatbot allows users to upload multiple PDF documents 📄, which are processed, indexed, and stored. Once the documents are indexed, the chatbot can interactively answer any questions based on the content of the documents. Whether you're looking to search through a large document collection or engage in interactive conversations, this tool makes document-based AI conversations easier than ever! 🧠💬
+🚀 Groq enables Large Language Models to interact with external resources like APIs, databases, and the web to fetch real-time data and perform actions beyond basic text generation. This functionality enhances the LLM's capabilities to provide dynamic, contextually relevant responses.
+
+🚀 The chatbot allows users to upload multiple PDF documents 📄, which are processed, indexed, and stored. Once the documents are indexed, the chatbot can interactively answer any questions based on the content of the documents. Whether you're looking to search through a large document collection or engage in interactive conversations, this tool makes document-based AI conversations easier than ever! 🧠💬
 
 Built with **Streamlit** 🖥️, the chatbot provides an intuitive and easy-to-use web interface, offering a seamless experience for querying and interacting with your uploaded documents.
 
