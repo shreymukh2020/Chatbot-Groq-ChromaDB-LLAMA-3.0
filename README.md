@@ -8,6 +8,8 @@
 
 🚀 The chatbot allows users to upload multiple PDF documents 📄, which are processed, indexed, and stored. Once the documents are indexed, the chatbot can interactively answer any questions based on the content of the documents. Whether you're looking to search through a large document collection or engage in interactive conversations, this tool makes document-based AI conversations easier than ever! 🧠💬
 
+Built with **Streamlit** 🖥️, the chatbot provides an intuitive and easy-to-use web interface, offering a seamless experience for querying and interacting with your uploaded documents.
+
 🤖 Technical Stack:
 
 LLAMA 3.1 Model - Meta's advanced natural language processing model.
@@ -20,7 +22,6 @@ GROQ - For enabling dynamic, real-time interactions with external resources.
 
 Streamlit - For building an intuitive web interface.
 
-Built with **Streamlit** 🖥️, the chatbot provides an intuitive and easy-to-use web interface, offering a seamless experience for querying and interacting with your uploaded documents.
 
 ![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1/blob/main/App_screenshot1.png)
 
