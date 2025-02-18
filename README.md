@@ -39,7 +39,6 @@ Before running the application, ensure that your environment is properly set up.
   - `langchain` 🔗
   - `huggingface-hub` 🤗
   - `PyPDF2` 📄
-  - `uuid` 🔢
   - `chromadb` 🗄️
   - `groq` 🧠
 
