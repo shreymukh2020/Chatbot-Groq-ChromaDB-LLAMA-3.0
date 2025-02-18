@@ -69,8 +69,8 @@ Before running the application, ensure that your environment is properly set up.
     
     cd your-repository-name
     ```
-   
-2. 3. Start the document vectorizer file:
+
+2. Start the document vectorizer file:
     ```bash
     python vectorize_documents.py
 
