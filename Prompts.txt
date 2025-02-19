@@ -1,0 +1,16 @@
+
+Who are the authors of these research Papers?
+
+What are the different research topics mentioned in these papers?
+
+What are the different technologies and models used in these research papers?
+
+Can you provide the research papers and their topics with authors from your data
+
+Which are the collaborating teams in these research Papers?
+
+Can you elaborate on each of the Research papers and explain their summaries
+
+
+
+https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.0.git
