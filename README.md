@@ -33,12 +33,12 @@ Streamlit - For building an intuitive web interface.
 
 ## 📝 Table of Contents
 
-1. [Configuration](#configuration) 🛠️
-2. [Running the Application](#running-the-application) 🚀
-3. [Features in the Sidebar](#features-in-the-sidebar) 🔧
-4. [Application Flow](#application-flow) 🔄
-5. [Code Walkthrough](#code-walkthrough) 💻
-6. [Customization](#customization) ✨
+1. [Configuration](#configuration) 
+2. [Running the Application](#running-the-application) 
+3. [Features in the Sidebar](#features-in-the-sidebar) 
+4. [Application Flow](#application-flow) 
+5. [Code Walkthrough](#code-walkthrough) 
+6. [Customization](#customization) 
 
 ---
 
@@ -46,14 +46,14 @@ Streamlit - For building an intuitive web interface.
 
 Before running the application, ensure that your environment is properly set up. This application requires the following prerequisites:
 
-- Python 3.8 or later 🐍
+- Python 3.8 or later 
 - The following Python libraries (you can install them via `pip install -r requirements.txt`):
-  - `streamlit` 🌊
-  - `langchain` 🔗
-  - `huggingface-hub` 🤗
-  - `PyPDF2` 📄
-  - `chromadb` 🗄️
-  - `groq` 🧠
+  - `streamlit` 
+  - `langchain` 
+  - `huggingface-hub` 
+  - `PyPDF2` 
+  - `chromadb` 
+  - `groq` 
 
 ### Steps to Set Up 🛠️:
 
@@ -141,19 +141,19 @@ Here’s a step-by-step guide on how the application works:
 
 The application consists of several key components that work together to bring the chatbot to life:
 
-### 1. **Vector Store Setup** 🗄️
+### 1. **Vector Store Setup** 
    - The **Chroma** vector store is initialized to store documents as embeddings.
    - **HuggingFaceEmbeddings** is used for generating document embeddings.
 
-### 2. **Conversation Chain** 🤖
+### 2. **Conversation Chain** 
    - The **ChatGroq** model is loaded with **LLAMA 3.0** (specifically `llama3-70b-8192`).
    - The model interacts with the vector store to fetch relevant documents and answer questions.
 
-### 3. **File Upload & Processing** 📤
+### 3. **File Upload & Processing** 
    - The uploaded PDFs are processed using the **PyPDF2** library to extract text from them.
    - The extracted text is stored in the **Chroma** vector store, ready for interaction.
 
-### 4. **Streamlit Interface** 🌐
+### 4. **Streamlit Interface** 
    - Streamlit provides the front-end interface, allowing users to upload PDFs, interact with the chatbot, and view chat history.
 
 ---
@@ -162,7 +162,7 @@ The application consists of several key components that work together to bring t
 
 You can customize this project based on your specific needs. Here are a few ways to make this chatbot your own:
 
-### Changing the Model 🧠
+### Changing the Model 
 
 To switch to a different **LLM model**, modify the `model` parameter in the `ChatGroq` initialization:
 
