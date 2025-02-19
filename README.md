@@ -114,15 +114,13 @@ Ready to run the chatbot? Follow these steps:
 
 ---
 
-## 🔧 Features in the Sidebar
-
-The **Sidebar** of the application provides multiple features that enhance the user experience. Here’s what you’ll find:
+## 🔧 Features 
 
 - **🗨️ Chat History**: Clear the chat history and start fresh with a clean slate.
 - **🤖 LLAMA 3.0**: The core AI model that powers document-based conversations.
 - **📚 Chroma DB**: Handles document storage and retrieval based on embeddings for efficient searching.
 - **🧠 GROQ Integration**: The LLM model is powered by the **GROQ API** for efficient natural language processing.
-- **📂 File Upload**: Upload multiple PDF files 📄. These files will be indexed and stored in the Chroma vector database for future retrieval.
+
 
 ---
 
@@ -150,6 +148,8 @@ The application consists of several key components that work together to bring t
    - The model interacts with the vector store to fetch relevant documents and answer questions.
 
 ### 3. **File Upload & Processing** 
+  - **📂 File Upload**: Upload multiple PDF files within the working directory in the data folder📄. These files will be indexed and stored in the Chroma vector 
+     database for future retrieval.
    - The uploaded PDFs are processed using the **PyPDF2** library to extract text from them.
    - The extracted text is stored in the **Chroma** vector store, ready for interaction.
 
