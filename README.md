@@ -6,7 +6,7 @@
 
 🚀 Groq enables Large Language Models to interact with external resources like APIs, databases, and the web to fetch real-time data and perform actions beyond basic text generation. This functionality enhances the LLM's capabilities to provide dynamic, contextually relevant responses.
 
-🚀 The chatbot allows users to upload multiple PDF documents 📄, which are processed, indexed, and stored. Once the documents are indexed, the chatbot can interactively answer any questions based on the content of the documents. Whether you're looking to search through a large document collection or engage in interactive conversations, this tool makes document-based AI conversations easier than ever! 🧠💬
+🚀 The chatbot allows users to upload multiple PDF documents 📄, which are processed, indexed, and stored. Once the documents are indexed, the chatbot can interactively answer any questions based on the content of the documents. Whether you're looking to search through a large document collection or engage in interactive conversations, this tool makes document-based AI conversations easier than ever! 💬
 
 Built with **Streamlit** 🖥️, the chatbot provides an intuitive and easy-to-use web interface, offering a seamless experience for querying and interacting with your uploaded documents.
 
