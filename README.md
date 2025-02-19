@@ -95,7 +95,7 @@ Ready to run the chatbot? Follow these steps:
 
 1. **Clone or Download the Repository**:
     ```bash
-    git clone "https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1.git"
+    git clone "https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.0.git"
     cd your-repository-name
     ```
 
