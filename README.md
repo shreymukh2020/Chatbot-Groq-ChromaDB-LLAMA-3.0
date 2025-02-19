@@ -1,4 +1,4 @@
-# 📚 LLAMA 3.1 Multidoc Chatbot with ChromaDB and GROQ 🤖
+# 📚 LLAMA 3.0 Multidoc Chatbot with ChromaDB and GROQ 🤖
 
 ## 💬 Overview 
 
@@ -119,7 +119,7 @@ Ready to run the chatbot? Follow these steps:
 The **Sidebar** of the application provides multiple features that enhance the user experience. Here’s what you’ll find:
 
 - **🗨️ Chat History**: Clear the chat history and start fresh with a clean slate.
-- **🤖 LLAMA 3.1**: The core AI model that powers document-based conversations.
+- **🤖 LLAMA 3.0**: The core AI model that powers document-based conversations.
 - **📚 Chroma DB**: Handles document storage and retrieval based on embeddings for efficient searching.
 - **🧠 GROQ Integration**: The LLM model is powered by the **GROQ API** for efficient natural language processing.
 - **📂 File Upload**: Upload multiple PDF files 📄. These files will be indexed and stored in the Chroma vector database for future retrieval.
