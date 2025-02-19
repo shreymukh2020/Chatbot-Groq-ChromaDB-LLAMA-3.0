@@ -23,7 +23,7 @@ GROQ - For enabling dynamic, real-time interactions with external resources.
 Streamlit - For building an intuitive web interface.
 
 
-![image(https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA-3.0/blob/main/App_screenshot1.jpeg)
+![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA-3.0/blob/main/App_screenshot1.jpeg)
 
 ![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA-3.0/blob/main/App_screenshot2.jpeg)
 
