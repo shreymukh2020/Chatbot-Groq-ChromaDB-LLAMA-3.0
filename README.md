@@ -1,4 +1,4 @@
-# 📚 LLAMA 3.0 Multidoc Chatbot with ChromaDB and GROQ 🤖
+# 📚 LLAMA 3.0 Multidoc RAG Chatbot with ChromaDB and GROQ 🤖
 
 ## 💬 Overview 
 
