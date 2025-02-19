@@ -12,7 +12,7 @@ Built with **Streamlit** 🖥️, the chatbot provides an intuitive and easy-to-
 
 🤖 Technical Stack:
 
-LLAMA 3.1 Model - Meta's advanced natural language processing model.
+LLAMA 3.0 Model - Meta's advanced natural language processing model.
 
 Huggingface Embeddings - For high-quality text embeddings.
 
@@ -23,11 +23,11 @@ GROQ - For enabling dynamic, real-time interactions with external resources.
 Streamlit - For building an intuitive web interface.
 
 
-![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1/blob/main/App_screenshot1.png)
+![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.0/blob/main/App_screenshot1.png)
 
-![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1/blob/main/App_screenshot2.png)
+![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.0/blob/main/App_screenshot2.png)
 
-![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.1/blob/main/App_screenshot3.png)
+![image](https://github.com/shreymukh2020/Chatbot-Groq-ChromaDB-LLAMA3.0/blob/main/App_screenshot3.png)
 
 ---
 
@@ -46,7 +46,7 @@ Streamlit - For building an intuitive web interface.
 
 Before running the application, ensure that your environment is properly set up. This application requires the following prerequisites:
 
-- Python 3.8 or later 
+- Python 3.11 or later 
 - The following Python libraries (you can install them via `pip install -r requirements.txt`):
   - `streamlit` 
   - `langchain` 
